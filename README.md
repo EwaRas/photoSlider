@@ -1,4 +1,4 @@
-# Indux Website
+# Photo Slider
 
 ## About this project
 Simple photo slider JS exercise
